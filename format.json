@@ -1,0 +1,38 @@
+[
+  {
+    "user_id": "3acfb0b7-04bd-4978-be4c-3929372277c1",
+    "ordered_at": "2023-01-16T13:56:39.492",
+    "status": "COMPLETED",
+    "total": "1917.00"
+  },
+  {
+    "user_id": "25b003b9-ab22-4a24-a616-dd0303f983d8",
+    "ordered_at": "2023-03-05T08:34:21.123",
+    "status": "COMPLETED",
+    "total": "13990.00"
+  },
+  {
+    "user_id": "e1470ada-fcbb-4424-8c46-065b6409ca4b",
+    "ordered_at": "2016-03-16T13:56:39.492",
+    "status": "COMPLETED",
+    "total": "215.50"
+  },
+  {
+    "user_id": "081a47a5-b7bf-462c-a11a-68002a179152",
+    "ordered_at": "2023-12-08T21:36:59.281",
+    "status": "COMPLETED",
+    "total": "49499.00"
+  },
+  {
+    "user_id": "0999c6aa-1bac-4ded-9a54-92fff4f34d69",
+    "ordered_at": "2023-12-14T11:10:29.408",
+    "status": "CANCELED",
+    "total": "13650.00"
+  },
+  {
+    "user_id": "0999c6aa-1bac-4ded-9a54-92fff4f34d69",
+    "ordered_at": "2023-12-14T11:15:31.108",
+    "status": "COMPLETED",
+    "total": "14760.00"
+  }
+]
